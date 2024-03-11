@@ -2,13 +2,19 @@
 # visualization
 2016~2023年美国49州车祸数据可视化
 ## 设计流程
-![图片](https://github.com/qianling2003/visualization/assets/142189433/cc6e74d5-bc41-4dea-a3e8-05631b7002c0)
+![图片](https://github.com/qianling2003/visualization/assets/142189433/de6331a9-e909-4769-9a72-45fd058fed56)
+
 ## 设计思维导图
-![图片](https://github.com/qianling2003/visualization/assets/142189433/df8ccee4-0a6b-476e-87bf-1c9cf847170a)
+![图片](https://github.com/qianling2003/visualization/assets/142189433/519c2de8-7bbd-4cd6-a54e-f10869107d72)
+
 ## 具体开发过程
-![图片](https://github.com/qianling2003/visualization/assets/142189433/f730b530-115d-408f-baa9-5256356294f0)
+![图片](https://github.com/qianling2003/visualization/assets/142189433/34d0dbab-5836-4f06-a6eb-69273d33ad85)
+
 ## 效果展示
-![图片](https://github.com/qianling2003/visualization/assets/142189433/12ba7cdd-c59a-449b-978b-b0a53c0f62ac)
-![图片](https://github.com/qianling2003/visualization/assets/142189433/4750dd90-023b-4a87-b757-cfb05c1252a5)
-![图片](https://github.com/qianling2003/visualization/assets/142189433/43dbdf69-9b26-4a19-ae0d-9afb589584a9)
-![图片](https://github.com/qianling2003/visualization/assets/142189433/95baf153-b7b4-476c-aa4f-5ce5ffe6c45c)
+![图片](https://github.com/qianling2003/visualization/assets/142189433/8b659b9e-5169-43d7-94de-51b63fce082b)
+
+![图片](https://github.com/qianling2003/visualization/assets/142189433/2056f31b-d09c-4869-8c68-d741998b9cb8)
+![图片](https://github.com/qianling2003/visualization/assets/142189433/11e821c1-77d2-4e8d-8383-5fb5366edebe)
+
+![图片](https://github.com/qianling2003/visualization/assets/142189433/13af2fbf-893b-470a-9469-7ab3f6943a05)
+
