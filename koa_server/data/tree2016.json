@@ -1,0 +1,2621 @@
+[
+    {
+        "name": "AL",
+        "accidents": 131,
+        "cities": [
+            {
+                "name": "Birmingham",
+                "accidents": 28,
+                "percentage": 21.37
+            },
+            {
+                "name": "Montgomery",
+                "accidents": 13,
+                "percentage": 9.92
+            },
+            {
+                "name": "Mobile",
+                "accidents": 7,
+                "percentage": 5.34
+            },
+            {
+                "name": "Gadsden",
+                "accidents": 7,
+                "percentage": 5.34
+            },
+            {
+                "name": "Tuscaloosa",
+                "accidents": 7,
+                "percentage": 5.34
+            },
+            {
+                "name": "Prattville",
+                "accidents": 5,
+                "percentage": 3.82
+            },
+            {
+                "name": "Evergreen",
+                "accidents": 4,
+                "percentage": 3.05
+            },
+            {
+                "name": "Verbena",
+                "accidents": 4,
+                "percentage": 3.05
+            },
+            {
+                "name": "Pike Road",
+                "accidents": 3,
+                "percentage": 2.29
+            },
+            {
+                "name": "Kellyton",
+                "accidents": 3,
+                "percentage": 2.29
+            }
+        ]
+    },
+    {
+        "name": "AR",
+        "accidents": 26,
+        "cities": [
+            {
+                "name": "Marion",
+                "accidents": 7,
+                "percentage": 26.92
+            },
+            {
+                "name": "North Little Rock",
+                "accidents": 4,
+                "percentage": 15.38
+            },
+            {
+                "name": "Rogers",
+                "accidents": 2,
+                "percentage": 7.69
+            },
+            {
+                "name": "Wabbaseka",
+                "accidents": 2,
+                "percentage": 7.69
+            },
+            {
+                "name": "West Memphis",
+                "accidents": 2,
+                "percentage": 7.69
+            },
+            {
+                "name": "Carlisle",
+                "accidents": 1,
+                "percentage": 3.85
+            },
+            {
+                "name": "Clarksville",
+                "accidents": 1,
+                "percentage": 3.85
+            },
+            {
+                "name": "Fayetteville",
+                "accidents": 1,
+                "percentage": 3.85
+            },
+            {
+                "name": "Fort Smith",
+                "accidents": 1,
+                "percentage": 3.85
+            },
+            {
+                "name": "Little Rock",
+                "accidents": 1,
+                "percentage": 3.85
+            }
+        ]
+    },
+    {
+        "name": "AZ",
+        "accidents": 2523,
+        "cities": [
+            {
+                "name": "Phoenix",
+                "accidents": 907,
+                "percentage": 35.95
+            },
+            {
+                "name": "Tempe",
+                "accidents": 254,
+                "percentage": 10.07
+            },
+            {
+                "name": "Tucson",
+                "accidents": 176,
+                "percentage": 6.98
+            },
+            {
+                "name": "Chandler",
+                "accidents": 85,
+                "percentage": 3.37
+            },
+            {
+                "name": "Flagstaff",
+                "accidents": 72,
+                "percentage": 2.85
+            },
+            {
+                "name": "Scottsdale",
+                "accidents": 67,
+                "percentage": 2.66
+            },
+            {
+                "name": "Glendale",
+                "accidents": 67,
+                "percentage": 2.66
+            },
+            {
+                "name": "Mesa",
+                "accidents": 57,
+                "percentage": 2.26
+            },
+            {
+                "name": "Peoria",
+                "accidents": 47,
+                "percentage": 1.86
+            },
+            {
+                "name": "Avondale",
+                "accidents": 32,
+                "percentage": 1.27
+            }
+        ]
+    },
+    {
+        "name": "CA",
+        "accidents": 136208,
+        "cities": [
+            {
+                "name": "Los Angeles",
+                "accidents": 14974,
+                "percentage": 10.99
+            },
+            {
+                "name": "Sacramento",
+                "accidents": 5922,
+                "percentage": 4.35
+            },
+            {
+                "name": "San Diego",
+                "accidents": 4998,
+                "percentage": 3.67
+            },
+            {
+                "name": "San Jose",
+                "accidents": 3819,
+                "percentage": 2.8
+            },
+            {
+                "name": "Oakland",
+                "accidents": 2236,
+                "percentage": 1.64
+            },
+            {
+                "name": "Long Beach",
+                "accidents": 2166,
+                "percentage": 1.59
+            },
+            {
+                "name": "Riverside",
+                "accidents": 2021,
+                "percentage": 1.48
+            },
+            {
+                "name": "San Francisco",
+                "accidents": 1654,
+                "percentage": 1.21
+            },
+            {
+                "name": "Whittier",
+                "accidents": 1516,
+                "percentage": 1.11
+            },
+            {
+                "name": "Corona",
+                "accidents": 1495,
+                "percentage": 1.1
+            }
+        ]
+    },
+    {
+        "name": "CO",
+        "accidents": 1284,
+        "cities": [
+            {
+                "name": "Denver",
+                "accidents": 382,
+                "percentage": 29.75
+            },
+            {
+                "name": "Colorado Springs",
+                "accidents": 181,
+                "percentage": 14.1
+            },
+            {
+                "name": "Aurora",
+                "accidents": 59,
+                "percentage": 4.6
+            },
+            {
+                "name": "Golden",
+                "accidents": 35,
+                "percentage": 2.73
+            },
+            {
+                "name": "Littleton",
+                "accidents": 34,
+                "percentage": 2.65
+            },
+            {
+                "name": "Broomfield",
+                "accidents": 29,
+                "percentage": 2.26
+            },
+            {
+                "name": "Englewood",
+                "accidents": 24,
+                "percentage": 1.87
+            },
+            {
+                "name": "Pueblo",
+                "accidents": 24,
+                "percentage": 1.87
+            },
+            {
+                "name": "Larkspur",
+                "accidents": 20,
+                "percentage": 1.56
+            },
+            {
+                "name": "Wheat Ridge",
+                "accidents": 18,
+                "percentage": 1.4
+            }
+        ]
+    },
+    {
+        "name": "CT",
+        "accidents": 4132,
+        "cities": [
+            {
+                "name": "Hartford",
+                "accidents": 407,
+                "percentage": 9.85
+            },
+            {
+                "name": "New Haven",
+                "accidents": 196,
+                "percentage": 4.74
+            },
+            {
+                "name": "Greenwich",
+                "accidents": 183,
+                "percentage": 4.43
+            },
+            {
+                "name": "East Hartford",
+                "accidents": 142,
+                "percentage": 3.44
+            },
+            {
+                "name": "Stamford",
+                "accidents": 128,
+                "percentage": 3.1
+            },
+            {
+                "name": "Bridgeport",
+                "accidents": 126,
+                "percentage": 3.05
+            },
+            {
+                "name": "Norwalk",
+                "accidents": 121,
+                "percentage": 2.93
+            },
+            {
+                "name": "Meriden",
+                "accidents": 109,
+                "percentage": 2.64
+            },
+            {
+                "name": "Westport",
+                "accidents": 108,
+                "percentage": 2.61
+            },
+            {
+                "name": "Windsor",
+                "accidents": 108,
+                "percentage": 2.61
+            }
+        ]
+    },
+    {
+        "name": "DC",
+        "accidents": 315,
+        "cities": [
+            {
+                "name": "Washington",
+                "accidents": 315,
+                "percentage": 100.0
+            }
+        ]
+    },
+    {
+        "name": "DE",
+        "accidents": 277,
+        "cities": [
+            {
+                "name": "New Castle",
+                "accidents": 58,
+                "percentage": 20.94
+            },
+            {
+                "name": "Wilmington",
+                "accidents": 47,
+                "percentage": 16.97
+            },
+            {
+                "name": "Newark",
+                "accidents": 40,
+                "percentage": 14.44
+            },
+            {
+                "name": "Dover",
+                "accidents": 21,
+                "percentage": 7.58
+            },
+            {
+                "name": "Bear",
+                "accidents": 17,
+                "percentage": 6.14
+            },
+            {
+                "name": "Smyrna",
+                "accidents": 15,
+                "percentage": 5.42
+            },
+            {
+                "name": "Claymont",
+                "accidents": 12,
+                "percentage": 4.33
+            },
+            {
+                "name": "Middletown",
+                "accidents": 7,
+                "percentage": 2.53
+            },
+            {
+                "name": "Frederica",
+                "accidents": 7,
+                "percentage": 2.53
+            },
+            {
+                "name": "Magnolia",
+                "accidents": 6,
+                "percentage": 2.17
+            }
+        ]
+    },
+    {
+        "name": "FL",
+        "accidents": 35889,
+        "cities": [
+            {
+                "name": "Orlando",
+                "accidents": 5890,
+                "percentage": 16.41
+            },
+            {
+                "name": "Miami",
+                "accidents": 5064,
+                "percentage": 14.11
+            },
+            {
+                "name": "Tampa",
+                "accidents": 2343,
+                "percentage": 6.53
+            },
+            {
+                "name": "Fort Lauderdale",
+                "accidents": 1474,
+                "percentage": 4.11
+            },
+            {
+                "name": "Saint Petersburg",
+                "accidents": 1017,
+                "percentage": 2.83
+            },
+            {
+                "name": "Sarasota",
+                "accidents": 1014,
+                "percentage": 2.83
+            },
+            {
+                "name": "Bradenton",
+                "accidents": 973,
+                "percentage": 2.71
+            },
+            {
+                "name": "Clearwater",
+                "accidents": 781,
+                "percentage": 2.18
+            },
+            {
+                "name": "Hialeah",
+                "accidents": 751,
+                "percentage": 2.09
+            },
+            {
+                "name": "Kissimmee",
+                "accidents": 703,
+                "percentage": 1.96
+            }
+        ]
+    },
+    {
+        "name": "GA",
+        "accidents": 13023,
+        "cities": [
+            {
+                "name": "Atlanta",
+                "accidents": 6286,
+                "percentage": 48.27
+            },
+            {
+                "name": "Augusta",
+                "accidents": 848,
+                "percentage": 6.51
+            },
+            {
+                "name": "Decatur",
+                "accidents": 605,
+                "percentage": 4.65
+            },
+            {
+                "name": "Marietta",
+                "accidents": 468,
+                "percentage": 3.59
+            },
+            {
+                "name": "Norcross",
+                "accidents": 227,
+                "percentage": 1.74
+            },
+            {
+                "name": "Kennesaw",
+                "accidents": 206,
+                "percentage": 1.58
+            },
+            {
+                "name": "Duluth",
+                "accidents": 197,
+                "percentage": 1.51
+            },
+            {
+                "name": "Tucker",
+                "accidents": 178,
+                "percentage": 1.37
+            },
+            {
+                "name": "Alpharetta",
+                "accidents": 170,
+                "percentage": 1.31
+            },
+            {
+                "name": "Stockbridge",
+                "accidents": 153,
+                "percentage": 1.17
+            }
+        ]
+    },
+    {
+        "name": "IA",
+        "accidents": 1735,
+        "cities": [
+            {
+                "name": "Des Moines",
+                "accidents": 421,
+                "percentage": 24.27
+            },
+            {
+                "name": "Council Bluffs",
+                "accidents": 158,
+                "percentage": 9.11
+            },
+            {
+                "name": "Cedar Rapids",
+                "accidents": 103,
+                "percentage": 5.94
+            },
+            {
+                "name": "West des Moines",
+                "accidents": 72,
+                "percentage": 4.15
+            },
+            {
+                "name": "Urbandale",
+                "accidents": 58,
+                "percentage": 3.34
+            },
+            {
+                "name": "Sioux City",
+                "accidents": 49,
+                "percentage": 2.82
+            },
+            {
+                "name": "Iowa City",
+                "accidents": 47,
+                "percentage": 2.71
+            },
+            {
+                "name": "North Liberty",
+                "accidents": 36,
+                "percentage": 2.07
+            },
+            {
+                "name": "Ames",
+                "accidents": 33,
+                "percentage": 1.9
+            },
+            {
+                "name": "Swisher",
+                "accidents": 28,
+                "percentage": 1.61
+            }
+        ]
+    },
+    {
+        "name": "ID",
+        "accidents": 390,
+        "cities": [
+            {
+                "name": "Boise",
+                "accidents": 42,
+                "percentage": 10.77
+            },
+            {
+                "name": "Nampa",
+                "accidents": 33,
+                "percentage": 8.46
+            },
+            {
+                "name": "Meridian",
+                "accidents": 25,
+                "percentage": 6.41
+            },
+            {
+                "name": "Blackfoot",
+                "accidents": 19,
+                "percentage": 4.87
+            },
+            {
+                "name": "Jerome",
+                "accidents": 15,
+                "percentage": 3.85
+            },
+            {
+                "name": "Pocatello",
+                "accidents": 13,
+                "percentage": 3.33
+            },
+            {
+                "name": "Caldwell",
+                "accidents": 13,
+                "percentage": 3.33
+            },
+            {
+                "name": "Post Falls",
+                "accidents": 11,
+                "percentage": 2.82
+            },
+            {
+                "name": "Coeur D Alene",
+                "accidents": 9,
+                "percentage": 2.31
+            },
+            {
+                "name": "Horseshoe Bend",
+                "accidents": 8,
+                "percentage": 2.05
+            }
+        ]
+    },
+    {
+        "name": "IL",
+        "accidents": 16856,
+        "cities": [
+            {
+                "name": "Chicago",
+                "accidents": 2578,
+                "percentage": 15.29
+            },
+            {
+                "name": "Elgin",
+                "accidents": 777,
+                "percentage": 4.61
+            },
+            {
+                "name": "Lombard",
+                "accidents": 700,
+                "percentage": 4.15
+            },
+            {
+                "name": "Wheaton",
+                "accidents": 578,
+                "percentage": 3.43
+            },
+            {
+                "name": "Elmhurst",
+                "accidents": 575,
+                "percentage": 3.41
+            },
+            {
+                "name": "Oak Brook",
+                "accidents": 474,
+                "percentage": 2.81
+            },
+            {
+                "name": "Villa Park",
+                "accidents": 438,
+                "percentage": 2.6
+            },
+            {
+                "name": "Glen Ellyn",
+                "accidents": 394,
+                "percentage": 2.34
+            },
+            {
+                "name": "Carol Stream",
+                "accidents": 390,
+                "percentage": 2.31
+            },
+            {
+                "name": "Hanover Park",
+                "accidents": 384,
+                "percentage": 2.28
+            }
+        ]
+    },
+    {
+        "name": "IN",
+        "accidents": 1562,
+        "cities": [
+            {
+                "name": "Indianapolis",
+                "accidents": 515,
+                "percentage": 32.97
+            },
+            {
+                "name": "Hammond",
+                "accidents": 44,
+                "percentage": 2.82
+            },
+            {
+                "name": "New Albany",
+                "accidents": 43,
+                "percentage": 2.75
+            },
+            {
+                "name": "Greenfield",
+                "accidents": 35,
+                "percentage": 2.24
+            },
+            {
+                "name": "Lake Station",
+                "accidents": 34,
+                "percentage": 2.18
+            },
+            {
+                "name": "Fishers",
+                "accidents": 33,
+                "percentage": 2.11
+            },
+            {
+                "name": "Fort Wayne",
+                "accidents": 32,
+                "percentage": 2.05
+            },
+            {
+                "name": "Gary",
+                "accidents": 30,
+                "percentage": 1.92
+            },
+            {
+                "name": "Noblesville",
+                "accidents": 26,
+                "percentage": 1.66
+            },
+            {
+                "name": "Pendleton",
+                "accidents": 22,
+                "percentage": 1.41
+            }
+        ]
+    },
+    {
+        "name": "KS",
+        "accidents": 444,
+        "cities": [
+            {
+                "name": "Lenexa",
+                "accidents": 139,
+                "percentage": 31.31
+            },
+            {
+                "name": "Overland Park",
+                "accidents": 89,
+                "percentage": 20.05
+            },
+            {
+                "name": "Olathe",
+                "accidents": 78,
+                "percentage": 17.57
+            },
+            {
+                "name": "Leawood",
+                "accidents": 29,
+                "percentage": 6.53
+            },
+            {
+                "name": "Shawnee",
+                "accidents": 20,
+                "percentage": 4.5
+            },
+            {
+                "name": "Topeka",
+                "accidents": 13,
+                "percentage": 2.93
+            },
+            {
+                "name": "Wichita",
+                "accidents": 13,
+                "percentage": 2.93
+            },
+            {
+                "name": "Lawrence",
+                "accidents": 7,
+                "percentage": 1.58
+            },
+            {
+                "name": "Edgerton",
+                "accidents": 6,
+                "percentage": 1.35
+            },
+            {
+                "name": "Stilwell",
+                "accidents": 6,
+                "percentage": 1.35
+            }
+        ]
+    },
+    {
+        "name": "KY",
+        "accidents": 1049,
+        "cities": [
+            {
+                "name": "Louisville",
+                "accidents": 389,
+                "percentage": 37.08
+            },
+            {
+                "name": "Lexington",
+                "accidents": 100,
+                "percentage": 9.53
+            },
+            {
+                "name": "Covington",
+                "accidents": 66,
+                "percentage": 6.29
+            },
+            {
+                "name": "Erlanger",
+                "accidents": 59,
+                "percentage": 5.62
+            },
+            {
+                "name": "Ft Mitchell",
+                "accidents": 49,
+                "percentage": 4.67
+            },
+            {
+                "name": "Newport",
+                "accidents": 36,
+                "percentage": 3.43
+            },
+            {
+                "name": "Florence",
+                "accidents": 29,
+                "percentage": 2.76
+            },
+            {
+                "name": "Walton",
+                "accidents": 29,
+                "percentage": 2.76
+            },
+            {
+                "name": "Frankfort",
+                "accidents": 24,
+                "percentage": 2.29
+            },
+            {
+                "name": "Petersburg",
+                "accidents": 14,
+                "percentage": 1.33
+            }
+        ]
+    },
+    {
+        "name": "LA",
+        "accidents": 830,
+        "cities": [
+            {
+                "name": "Baton Rouge",
+                "accidents": 273,
+                "percentage": 32.89
+            },
+            {
+                "name": "New Orleans",
+                "accidents": 164,
+                "percentage": 19.76
+            },
+            {
+                "name": "Metairie",
+                "accidents": 56,
+                "percentage": 6.75
+            },
+            {
+                "name": "Shreveport",
+                "accidents": 32,
+                "percentage": 3.86
+            },
+            {
+                "name": "Port Allen",
+                "accidents": 30,
+                "percentage": 3.61
+            },
+            {
+                "name": "LA Place",
+                "accidents": 19,
+                "percentage": 2.29
+            },
+            {
+                "name": "Houma",
+                "accidents": 17,
+                "percentage": 2.05
+            },
+            {
+                "name": "Bossier City",
+                "accidents": 15,
+                "percentage": 1.81
+            },
+            {
+                "name": "Denham Springs",
+                "accidents": 11,
+                "percentage": 1.33
+            },
+            {
+                "name": "Sorrento",
+                "accidents": 10,
+                "percentage": 1.2
+            }
+        ]
+    },
+    {
+        "name": "MA",
+        "accidents": 4619,
+        "cities": [
+            {
+                "name": "Boston",
+                "accidents": 433,
+                "percentage": 9.37
+            },
+            {
+                "name": "Dorchester",
+                "accidents": 223,
+                "percentage": 4.83
+            },
+            {
+                "name": "Andover",
+                "accidents": 135,
+                "percentage": 2.92
+            },
+            {
+                "name": "Chelmsford",
+                "accidents": 117,
+                "percentage": 2.53
+            },
+            {
+                "name": "Waltham",
+                "accidents": 117,
+                "percentage": 2.53
+            },
+            {
+                "name": "Medford",
+                "accidents": 109,
+                "percentage": 2.36
+            },
+            {
+                "name": "Lexington",
+                "accidents": 106,
+                "percentage": 2.29
+            },
+            {
+                "name": "Billerica",
+                "accidents": 103,
+                "percentage": 2.23
+            },
+            {
+                "name": "Worcester",
+                "accidents": 82,
+                "percentage": 1.78
+            },
+            {
+                "name": "Cambridge",
+                "accidents": 82,
+                "percentage": 1.78
+            }
+        ]
+    },
+    {
+        "name": "MD",
+        "accidents": 5761,
+        "cities": [
+            {
+                "name": "Frederick",
+                "accidents": 411,
+                "percentage": 7.13
+            },
+            {
+                "name": "Silver Spring",
+                "accidents": 322,
+                "percentage": 5.59
+            },
+            {
+                "name": "Bethesda",
+                "accidents": 226,
+                "percentage": 3.92
+            },
+            {
+                "name": "Halethorpe",
+                "accidents": 222,
+                "percentage": 3.85
+            },
+            {
+                "name": "Hyattsville",
+                "accidents": 200,
+                "percentage": 3.47
+            },
+            {
+                "name": "Gaithersburg",
+                "accidents": 182,
+                "percentage": 3.16
+            },
+            {
+                "name": "Rockville",
+                "accidents": 163,
+                "percentage": 2.83
+            },
+            {
+                "name": "Laurel",
+                "accidents": 153,
+                "percentage": 2.66
+            },
+            {
+                "name": "Annapolis",
+                "accidents": 135,
+                "percentage": 2.34
+            },
+            {
+                "name": "Linthicum Heights",
+                "accidents": 120,
+                "percentage": 2.08
+            }
+        ]
+    },
+    {
+        "name": "ME",
+        "accidents": 128,
+        "cities": [
+            {
+                "name": "Scarborough",
+                "accidents": 8,
+                "percentage": 6.25
+            },
+            {
+                "name": "Kennebunk",
+                "accidents": 8,
+                "percentage": 6.25
+            },
+            {
+                "name": "Bangor",
+                "accidents": 6,
+                "percentage": 4.69
+            },
+            {
+                "name": "Saco",
+                "accidents": 6,
+                "percentage": 4.69
+            },
+            {
+                "name": "Portland",
+                "accidents": 6,
+                "percentage": 4.69
+            },
+            {
+                "name": "Gray",
+                "accidents": 6,
+                "percentage": 4.69
+            },
+            {
+                "name": "Auburn",
+                "accidents": 5,
+                "percentage": 3.91
+            },
+            {
+                "name": "Falmouth",
+                "accidents": 5,
+                "percentage": 3.91
+            },
+            {
+                "name": "York",
+                "accidents": 5,
+                "percentage": 3.91
+            },
+            {
+                "name": "Belfast",
+                "accidents": 5,
+                "percentage": 3.91
+            }
+        ]
+    },
+    {
+        "name": "MI",
+        "accidents": 16567,
+        "cities": [
+            {
+                "name": "Grand Rapids",
+                "accidents": 3015,
+                "percentage": 18.2
+            },
+            {
+                "name": "Flint",
+                "accidents": 2467,
+                "percentage": 14.89
+            },
+            {
+                "name": "Detroit",
+                "accidents": 2280,
+                "percentage": 13.76
+            },
+            {
+                "name": "Grand Blanc",
+                "accidents": 557,
+                "percentage": 3.36
+            },
+            {
+                "name": "Burton",
+                "accidents": 423,
+                "percentage": 2.55
+            },
+            {
+                "name": "Davison",
+                "accidents": 392,
+                "percentage": 2.37
+            },
+            {
+                "name": "Royal Oak",
+                "accidents": 377,
+                "percentage": 2.28
+            },
+            {
+                "name": "Southfield",
+                "accidents": 357,
+                "percentage": 2.15
+            },
+            {
+                "name": "Clio",
+                "accidents": 275,
+                "percentage": 1.66
+            },
+            {
+                "name": "Highland Park",
+                "accidents": 218,
+                "percentage": 1.32
+            }
+        ]
+    },
+    {
+        "name": "MN",
+        "accidents": 2547,
+        "cities": [
+            {
+                "name": "Minneapolis",
+                "accidents": 992,
+                "percentage": 38.95
+            },
+            {
+                "name": "Saint Paul",
+                "accidents": 740,
+                "percentage": 29.05
+            },
+            {
+                "name": "Burnsville",
+                "accidents": 62,
+                "percentage": 2.43
+            },
+            {
+                "name": "Hopkins",
+                "accidents": 43,
+                "percentage": 1.69
+            },
+            {
+                "name": "Eden Prairie",
+                "accidents": 39,
+                "percentage": 1.53
+            },
+            {
+                "name": "Maple Grove",
+                "accidents": 34,
+                "percentage": 1.33
+            },
+            {
+                "name": "Osseo",
+                "accidents": 32,
+                "percentage": 1.26
+            },
+            {
+                "name": "Forest Lake",
+                "accidents": 25,
+                "percentage": 0.98
+            },
+            {
+                "name": "Inver Grove Heights",
+                "accidents": 23,
+                "percentage": 0.9
+            },
+            {
+                "name": "Lakeville",
+                "accidents": 22,
+                "percentage": 0.86
+            }
+        ]
+    },
+    {
+        "name": "MO",
+        "accidents": 3651,
+        "cities": [
+            {
+                "name": "Saint Louis",
+                "accidents": 1551,
+                "percentage": 42.48
+            },
+            {
+                "name": "Kansas City",
+                "accidents": 751,
+                "percentage": 20.57
+            },
+            {
+                "name": "Saint Charles",
+                "accidents": 126,
+                "percentage": 3.45
+            },
+            {
+                "name": "Lees Summit",
+                "accidents": 109,
+                "percentage": 2.99
+            },
+            {
+                "name": "Chesterfield",
+                "accidents": 107,
+                "percentage": 2.93
+            },
+            {
+                "name": "Bridgeton",
+                "accidents": 102,
+                "percentage": 2.79
+            },
+            {
+                "name": "Independence",
+                "accidents": 79,
+                "percentage": 2.16
+            },
+            {
+                "name": "Hazelwood",
+                "accidents": 78,
+                "percentage": 2.14
+            },
+            {
+                "name": "Florissant",
+                "accidents": 47,
+                "percentage": 1.29
+            },
+            {
+                "name": "Saint Peters",
+                "accidents": 45,
+                "percentage": 1.23
+            }
+        ]
+    },
+    {
+        "name": "MS",
+        "accidents": 379,
+        "cities": [
+            {
+                "name": "Jackson",
+                "accidents": 119,
+                "percentage": 31.4
+            },
+            {
+                "name": "Hattiesburg",
+                "accidents": 67,
+                "percentage": 17.68
+            },
+            {
+                "name": "Ridgeland",
+                "accidents": 16,
+                "percentage": 4.22
+            },
+            {
+                "name": "Gulfport",
+                "accidents": 12,
+                "percentage": 3.17
+            },
+            {
+                "name": "Richland",
+                "accidents": 12,
+                "percentage": 3.17
+            },
+            {
+                "name": "Byram",
+                "accidents": 11,
+                "percentage": 2.9
+            },
+            {
+                "name": "Natchez",
+                "accidents": 8,
+                "percentage": 2.11
+            },
+            {
+                "name": "Pearl",
+                "accidents": 7,
+                "percentage": 1.85
+            },
+            {
+                "name": "Moss Point",
+                "accidents": 7,
+                "percentage": 1.85
+            },
+            {
+                "name": "Vicksburg",
+                "accidents": 7,
+                "percentage": 1.85
+            }
+        ]
+    },
+    {
+        "name": "MT",
+        "accidents": 61,
+        "cities": [
+            {
+                "name": "Power",
+                "accidents": 4,
+                "percentage": 6.56
+            },
+            {
+                "name": "Cascade",
+                "accidents": 3,
+                "percentage": 4.92
+            },
+            {
+                "name": "Kalispell",
+                "accidents": 3,
+                "percentage": 4.92
+            },
+            {
+                "name": "Billings",
+                "accidents": 3,
+                "percentage": 4.92
+            },
+            {
+                "name": "Helena",
+                "accidents": 3,
+                "percentage": 4.92
+            },
+            {
+                "name": "Great Falls",
+                "accidents": 3,
+                "percentage": 4.92
+            },
+            {
+                "name": "Gallatin Gateway",
+                "accidents": 2,
+                "percentage": 3.28
+            },
+            {
+                "name": "Martinsdale",
+                "accidents": 2,
+                "percentage": 3.28
+            },
+            {
+                "name": "Malta",
+                "accidents": 2,
+                "percentage": 3.28
+            },
+            {
+                "name": "Lodge Grass",
+                "accidents": 2,
+                "percentage": 3.28
+            }
+        ]
+    },
+    {
+        "name": "NC",
+        "accidents": 5962,
+        "cities": [
+            {
+                "name": "Charlotte",
+                "accidents": 4090,
+                "percentage": 68.6
+            },
+            {
+                "name": "Raleigh",
+                "accidents": 587,
+                "percentage": 9.85
+            },
+            {
+                "name": "Huntersville",
+                "accidents": 167,
+                "percentage": 2.8
+            },
+            {
+                "name": "Durham",
+                "accidents": 94,
+                "percentage": 1.58
+            },
+            {
+                "name": "Greensboro",
+                "accidents": 71,
+                "percentage": 1.19
+            },
+            {
+                "name": "Matthews",
+                "accidents": 66,
+                "percentage": 1.11
+            },
+            {
+                "name": "Asheville",
+                "accidents": 54,
+                "percentage": 0.91
+            },
+            {
+                "name": "Winston Salem",
+                "accidents": 53,
+                "percentage": 0.89
+            },
+            {
+                "name": "Cary",
+                "accidents": 46,
+                "percentage": 0.77
+            },
+            {
+                "name": "Garner",
+                "accidents": 45,
+                "percentage": 0.75
+            }
+        ]
+    },
+    {
+        "name": "ND",
+        "accidents": 3,
+        "cities": [
+            {
+                "name": "Mandan",
+                "accidents": 2,
+                "percentage": 66.67
+            },
+            {
+                "name": "Niagara",
+                "accidents": 1,
+                "percentage": 33.33
+            }
+        ]
+    },
+    {
+        "name": "NE",
+        "accidents": 5742,
+        "cities": [
+            {
+                "name": "Omaha",
+                "accidents": 4759,
+                "percentage": 82.88
+            },
+            {
+                "name": "Bellevue",
+                "accidents": 368,
+                "percentage": 6.41
+            },
+            {
+                "name": "Papillion",
+                "accidents": 164,
+                "percentage": 2.86
+            },
+            {
+                "name": "Elkhorn",
+                "accidents": 104,
+                "percentage": 1.81
+            },
+            {
+                "name": "La Vista",
+                "accidents": 93,
+                "percentage": 1.62
+            },
+            {
+                "name": "Gretna",
+                "accidents": 75,
+                "percentage": 1.31
+            },
+            {
+                "name": "Boys Town",
+                "accidents": 42,
+                "percentage": 0.73
+            },
+            {
+                "name": "Springfield",
+                "accidents": 18,
+                "percentage": 0.31
+            },
+            {
+                "name": "Bennington",
+                "accidents": 17,
+                "percentage": 0.3
+            },
+            {
+                "name": "Valley",
+                "accidents": 13,
+                "percentage": 0.23
+            }
+        ]
+    },
+    {
+        "name": "NH",
+        "accidents": 308,
+        "cities": [
+            {
+                "name": "Nashua",
+                "accidents": 46,
+                "percentage": 14.94
+            },
+            {
+                "name": "Manchester",
+                "accidents": 29,
+                "percentage": 9.42
+            },
+            {
+                "name": "Salem",
+                "accidents": 22,
+                "percentage": 7.14
+            },
+            {
+                "name": "Londonderry",
+                "accidents": 17,
+                "percentage": 5.52
+            },
+            {
+                "name": "Concord",
+                "accidents": 13,
+                "percentage": 4.22
+            },
+            {
+                "name": "Hooksett",
+                "accidents": 10,
+                "percentage": 3.25
+            },
+            {
+                "name": "North Hampton",
+                "accidents": 9,
+                "percentage": 2.92
+            },
+            {
+                "name": "Merrimack",
+                "accidents": 8,
+                "percentage": 2.6
+            },
+            {
+                "name": "Windham",
+                "accidents": 7,
+                "percentage": 2.27
+            },
+            {
+                "name": "Bedford",
+                "accidents": 7,
+                "percentage": 2.27
+            }
+        ]
+    },
+    {
+        "name": "NJ",
+        "accidents": 7461,
+        "cities": [
+            {
+                "name": "Newark",
+                "accidents": 519,
+                "percentage": 6.96
+            },
+            {
+                "name": "Fort Lee",
+                "accidents": 232,
+                "percentage": 3.11
+            },
+            {
+                "name": "Trenton",
+                "accidents": 211,
+                "percentage": 2.83
+            },
+            {
+                "name": "Bellmawr",
+                "accidents": 209,
+                "percentage": 2.8
+            },
+            {
+                "name": "Jersey City",
+                "accidents": 185,
+                "percentage": 2.48
+            },
+            {
+                "name": "Mount Laurel",
+                "accidents": 143,
+                "percentage": 1.92
+            },
+            {
+                "name": "Kearny",
+                "accidents": 140,
+                "percentage": 1.88
+            },
+            {
+                "name": "Cherry Hill",
+                "accidents": 133,
+                "percentage": 1.78
+            },
+            {
+                "name": "East Orange",
+                "accidents": 132,
+                "percentage": 1.77
+            },
+            {
+                "name": "Parsippany",
+                "accidents": 129,
+                "percentage": 1.73
+            }
+        ]
+    },
+    {
+        "name": "NM",
+        "accidents": 153,
+        "cities": [
+            {
+                "name": "Albuquerque",
+                "accidents": 92,
+                "percentage": 60.13
+            },
+            {
+                "name": "Las Cruces",
+                "accidents": 9,
+                "percentage": 5.88
+            },
+            {
+                "name": "Santa Fe",
+                "accidents": 5,
+                "percentage": 3.27
+            },
+            {
+                "name": "Casa Blanca",
+                "accidents": 4,
+                "percentage": 2.61
+            },
+            {
+                "name": "Roswell",
+                "accidents": 4,
+                "percentage": 2.61
+            },
+            {
+                "name": "Socorro",
+                "accidents": 3,
+                "percentage": 1.96
+            },
+            {
+                "name": "Gallup",
+                "accidents": 3,
+                "percentage": 1.96
+            },
+            {
+                "name": "Moriarty",
+                "accidents": 3,
+                "percentage": 1.96
+            },
+            {
+                "name": "Deming",
+                "accidents": 2,
+                "percentage": 1.31
+            },
+            {
+                "name": "Dulce",
+                "accidents": 2,
+                "percentage": 1.31
+            }
+        ]
+    },
+    {
+        "name": "NV",
+        "accidents": 1335,
+        "cities": [
+            {
+                "name": "Las Vegas",
+                "accidents": 1132,
+                "percentage": 84.79
+            },
+            {
+                "name": "Henderson",
+                "accidents": 42,
+                "percentage": 3.15
+            },
+            {
+                "name": "North Las Vegas",
+                "accidents": 39,
+                "percentage": 2.92
+            },
+            {
+                "name": "Reno",
+                "accidents": 34,
+                "percentage": 2.55
+            },
+            {
+                "name": "Sparks",
+                "accidents": 11,
+                "percentage": 0.82
+            },
+            {
+                "name": "Verdi",
+                "accidents": 10,
+                "percentage": 0.75
+            },
+            {
+                "name": "Washoe Valley",
+                "accidents": 6,
+                "percentage": 0.45
+            },
+            {
+                "name": "Fallon",
+                "accidents": 5,
+                "percentage": 0.37
+            },
+            {
+                "name": "Fernley",
+                "accidents": 4,
+                "percentage": 0.3
+            },
+            {
+                "name": "Overton",
+                "accidents": 4,
+                "percentage": 0.3
+            }
+        ]
+    },
+    {
+        "name": "NY",
+        "accidents": 19525,
+        "cities": [
+            {
+                "name": "Bronx",
+                "accidents": 1669,
+                "percentage": 8.55
+            },
+            {
+                "name": "New York",
+                "accidents": 1160,
+                "percentage": 5.94
+            },
+            {
+                "name": "Brooklyn",
+                "accidents": 1075,
+                "percentage": 5.51
+            },
+            {
+                "name": "Albany",
+                "accidents": 736,
+                "percentage": 3.77
+            },
+            {
+                "name": "Yonkers",
+                "accidents": 387,
+                "percentage": 1.98
+            },
+            {
+                "name": "Flushing",
+                "accidents": 323,
+                "percentage": 1.65
+            },
+            {
+                "name": "White Plains",
+                "accidents": 305,
+                "percentage": 1.56
+            },
+            {
+                "name": "Brewster",
+                "accidents": 303,
+                "percentage": 1.55
+            },
+            {
+                "name": "Staten Island",
+                "accidents": 285,
+                "percentage": 1.46
+            },
+            {
+                "name": "Jamaica",
+                "accidents": 269,
+                "percentage": 1.38
+            }
+        ]
+    },
+    {
+        "name": "OH",
+        "accidents": 11201,
+        "cities": [
+            {
+                "name": "Dayton",
+                "accidents": 3890,
+                "percentage": 34.73
+            },
+            {
+                "name": "Columbus",
+                "accidents": 2305,
+                "percentage": 20.58
+            },
+            {
+                "name": "Cincinnati",
+                "accidents": 550,
+                "percentage": 4.91
+            },
+            {
+                "name": "Cleveland",
+                "accidents": 495,
+                "percentage": 4.42
+            },
+            {
+                "name": "Akron",
+                "accidents": 310,
+                "percentage": 2.77
+            },
+            {
+                "name": "Miamisburg",
+                "accidents": 246,
+                "percentage": 2.2
+            },
+            {
+                "name": "Toledo",
+                "accidents": 138,
+                "percentage": 1.23
+            },
+            {
+                "name": "Dublin",
+                "accidents": 130,
+                "percentage": 1.16
+            },
+            {
+                "name": "Independence",
+                "accidents": 126,
+                "percentage": 1.12
+            },
+            {
+                "name": "Westerville",
+                "accidents": 115,
+                "percentage": 1.03
+            }
+        ]
+    },
+    {
+        "name": "OK",
+        "accidents": 522,
+        "cities": [
+            {
+                "name": "Oklahoma City",
+                "accidents": 347,
+                "percentage": 66.48
+            },
+            {
+                "name": "Tulsa",
+                "accidents": 43,
+                "percentage": 8.24
+            },
+            {
+                "name": "Edmond",
+                "accidents": 16,
+                "percentage": 3.07
+            },
+            {
+                "name": "Sapulpa",
+                "accidents": 8,
+                "percentage": 1.53
+            },
+            {
+                "name": "Yukon",
+                "accidents": 6,
+                "percentage": 1.15
+            },
+            {
+                "name": "Claremore",
+                "accidents": 6,
+                "percentage": 1.15
+            },
+            {
+                "name": "Washington",
+                "accidents": 5,
+                "percentage": 0.96
+            },
+            {
+                "name": "Choctaw",
+                "accidents": 5,
+                "percentage": 0.96
+            },
+            {
+                "name": "Shawnee",
+                "accidents": 4,
+                "percentage": 0.77
+            },
+            {
+                "name": "Norman",
+                "accidents": 4,
+                "percentage": 0.77
+            }
+        ]
+    },
+    {
+        "name": "OR",
+        "accidents": 959,
+        "cities": [
+            {
+                "name": "Portland",
+                "accidents": 319,
+                "percentage": 33.26
+            },
+            {
+                "name": "Salem",
+                "accidents": 28,
+                "percentage": 2.92
+            },
+            {
+                "name": "Eugene",
+                "accidents": 25,
+                "percentage": 2.61
+            },
+            {
+                "name": "Tualatin",
+                "accidents": 22,
+                "percentage": 2.29
+            },
+            {
+                "name": "Ashland",
+                "accidents": 20,
+                "percentage": 2.09
+            },
+            {
+                "name": "Clatskanie",
+                "accidents": 19,
+                "percentage": 1.98
+            },
+            {
+                "name": "Grants Pass",
+                "accidents": 18,
+                "percentage": 1.88
+            },
+            {
+                "name": "Aurora",
+                "accidents": 16,
+                "percentage": 1.67
+            },
+            {
+                "name": "Beaverton",
+                "accidents": 14,
+                "percentage": 1.46
+            },
+            {
+                "name": "La Grande",
+                "accidents": 14,
+                "percentage": 1.46
+            }
+        ]
+    },
+    {
+        "name": "PA",
+        "accidents": 20796,
+        "cities": [
+            {
+                "name": "Lancaster",
+                "accidents": 1714,
+                "percentage": 8.24
+            },
+            {
+                "name": "Philadelphia",
+                "accidents": 1367,
+                "percentage": 6.57
+            },
+            {
+                "name": "York",
+                "accidents": 1241,
+                "percentage": 5.97
+            },
+            {
+                "name": "Pittsburgh",
+                "accidents": 980,
+                "percentage": 4.71
+            },
+            {
+                "name": "Norristown",
+                "accidents": 797,
+                "percentage": 3.83
+            },
+            {
+                "name": "Pottstown",
+                "accidents": 491,
+                "percentage": 2.36
+            },
+            {
+                "name": "Conshohocken",
+                "accidents": 420,
+                "percentage": 2.02
+            },
+            {
+                "name": "Lansdale",
+                "accidents": 387,
+                "percentage": 1.86
+            },
+            {
+                "name": "Willow Grove",
+                "accidents": 327,
+                "percentage": 1.57
+            },
+            {
+                "name": "Ambler",
+                "accidents": 323,
+                "percentage": 1.55
+            }
+        ]
+    },
+    {
+        "name": "RI",
+        "accidents": 1337,
+        "cities": [
+            {
+                "name": "Providence",
+                "accidents": 590,
+                "percentage": 44.13
+            },
+            {
+                "name": "Warwick",
+                "accidents": 174,
+                "percentage": 13.01
+            },
+            {
+                "name": "Pawtucket",
+                "accidents": 122,
+                "percentage": 9.12
+            },
+            {
+                "name": "Cranston",
+                "accidents": 117,
+                "percentage": 8.75
+            },
+            {
+                "name": "East Providence",
+                "accidents": 68,
+                "percentage": 5.09
+            },
+            {
+                "name": "East Greenwich",
+                "accidents": 55,
+                "percentage": 4.11
+            },
+            {
+                "name": "Lincoln",
+                "accidents": 52,
+                "percentage": 3.89
+            },
+            {
+                "name": "Johnston",
+                "accidents": 34,
+                "percentage": 2.54
+            },
+            {
+                "name": "North Kingstown",
+                "accidents": 24,
+                "percentage": 1.8
+            },
+            {
+                "name": "West Greenwich",
+                "accidents": 13,
+                "percentage": 0.97
+            }
+        ]
+    },
+    {
+        "name": "SC",
+        "accidents": 2902,
+        "cities": [
+            {
+                "name": "Aiken",
+                "accidents": 282,
+                "percentage": 9.72
+            },
+            {
+                "name": "Greenwood",
+                "accidents": 218,
+                "percentage": 7.51
+            },
+            {
+                "name": "Anderson",
+                "accidents": 208,
+                "percentage": 7.17
+            },
+            {
+                "name": "Columbia",
+                "accidents": 163,
+                "percentage": 5.62
+            },
+            {
+                "name": "North Augusta",
+                "accidents": 157,
+                "percentage": 5.41
+            },
+            {
+                "name": "Newberry",
+                "accidents": 110,
+                "percentage": 3.79
+            },
+            {
+                "name": "Greenville",
+                "accidents": 104,
+                "percentage": 3.58
+            },
+            {
+                "name": "Charleston",
+                "accidents": 90,
+                "percentage": 3.1
+            },
+            {
+                "name": "Batesburg",
+                "accidents": 68,
+                "percentage": 2.34
+            },
+            {
+                "name": "Beech Island",
+                "accidents": 67,
+                "percentage": 2.31
+            }
+        ]
+    },
+    {
+        "name": "SD",
+        "accidents": 7,
+        "cities": [
+            {
+                "name": "Sioux Falls",
+                "accidents": 3,
+                "percentage": 42.86
+            },
+            {
+                "name": "Hartford",
+                "accidents": 2,
+                "percentage": 28.57
+            },
+            {
+                "name": "Kadoka",
+                "accidents": 1,
+                "percentage": 14.29
+            },
+            {
+                "name": "New Underwood",
+                "accidents": 1,
+                "percentage": 14.29
+            }
+        ]
+    },
+    {
+        "name": "TN",
+        "accidents": 1615,
+        "cities": [
+            {
+                "name": "Nashville",
+                "accidents": 611,
+                "percentage": 37.83
+            },
+            {
+                "name": "Memphis",
+                "accidents": 204,
+                "percentage": 12.63
+            },
+            {
+                "name": "Chattanooga",
+                "accidents": 119,
+                "percentage": 7.37
+            },
+            {
+                "name": "Knoxville",
+                "accidents": 106,
+                "percentage": 6.56
+            },
+            {
+                "name": "Antioch",
+                "accidents": 60,
+                "percentage": 3.72
+            },
+            {
+                "name": "Goodlettsville",
+                "accidents": 39,
+                "percentage": 2.41
+            },
+            {
+                "name": "Madison",
+                "accidents": 35,
+                "percentage": 2.17
+            },
+            {
+                "name": "Murfreesboro",
+                "accidents": 24,
+                "percentage": 1.49
+            },
+            {
+                "name": "Brentwood",
+                "accidents": 21,
+                "percentage": 1.3
+            },
+            {
+                "name": "Hermitage",
+                "accidents": 15,
+                "percentage": 0.93
+            }
+        ]
+    },
+    {
+        "name": "TX",
+        "accidents": 48657,
+        "cities": [
+            {
+                "name": "Houston",
+                "accidents": 15527,
+                "percentage": 31.91
+            },
+            {
+                "name": "Dallas",
+                "accidents": 11789,
+                "percentage": 24.23
+            },
+            {
+                "name": "Austin",
+                "accidents": 10579,
+                "percentage": 21.74
+            },
+            {
+                "name": "San Antonio",
+                "accidents": 2790,
+                "percentage": 5.73
+            },
+            {
+                "name": "Fort Worth",
+                "accidents": 1181,
+                "percentage": 2.43
+            },
+            {
+                "name": "Irving",
+                "accidents": 542,
+                "percentage": 1.11
+            },
+            {
+                "name": "Arlington",
+                "accidents": 442,
+                "percentage": 0.91
+            },
+            {
+                "name": "Mesquite",
+                "accidents": 373,
+                "percentage": 0.77
+            },
+            {
+                "name": "Grand Prairie",
+                "accidents": 345,
+                "percentage": 0.71
+            },
+            {
+                "name": "Pflugerville",
+                "accidents": 278,
+                "percentage": 0.57
+            }
+        ]
+    },
+    {
+        "name": "UT",
+        "accidents": 920,
+        "cities": [
+            {
+                "name": "Salt Lake City",
+                "accidents": 299,
+                "percentage": 32.5
+            },
+            {
+                "name": "West Valley City",
+                "accidents": 74,
+                "percentage": 8.04
+            },
+            {
+                "name": "Ogden",
+                "accidents": 51,
+                "percentage": 5.54
+            },
+            {
+                "name": "Draper",
+                "accidents": 41,
+                "percentage": 4.46
+            },
+            {
+                "name": "Midvale",
+                "accidents": 26,
+                "percentage": 2.83
+            },
+            {
+                "name": "West Jordan",
+                "accidents": 25,
+                "percentage": 2.72
+            },
+            {
+                "name": "North Salt Lake",
+                "accidents": 24,
+                "percentage": 2.61
+            },
+            {
+                "name": "Lehi",
+                "accidents": 23,
+                "percentage": 2.5
+            },
+            {
+                "name": "South Jordan",
+                "accidents": 20,
+                "percentage": 2.17
+            },
+            {
+                "name": "Sandy",
+                "accidents": 20,
+                "percentage": 2.17
+            }
+        ]
+    },
+    {
+        "name": "VA",
+        "accidents": 6263,
+        "cities": [
+            {
+                "name": "Sterling",
+                "accidents": 452,
+                "percentage": 7.22
+            },
+            {
+                "name": "Alexandria",
+                "accidents": 391,
+                "percentage": 6.24
+            },
+            {
+                "name": "Fairfax",
+                "accidents": 377,
+                "percentage": 6.02
+            },
+            {
+                "name": "Springfield",
+                "accidents": 354,
+                "percentage": 5.65
+            },
+            {
+                "name": "Arlington",
+                "accidents": 343,
+                "percentage": 5.48
+            },
+            {
+                "name": "Ashburn",
+                "accidents": 301,
+                "percentage": 4.81
+            },
+            {
+                "name": "Mc Lean",
+                "accidents": 258,
+                "percentage": 4.12
+            },
+            {
+                "name": "Richmond",
+                "accidents": 222,
+                "percentage": 3.54
+            },
+            {
+                "name": "Falls Church",
+                "accidents": 210,
+                "percentage": 3.35
+            },
+            {
+                "name": "Lorton",
+                "accidents": 181,
+                "percentage": 2.89
+            }
+        ]
+    },
+    {
+        "name": "VT",
+        "accidents": 16,
+        "cities": [
+            {
+                "name": "Brattleboro",
+                "accidents": 3,
+                "percentage": 18.75
+            },
+            {
+                "name": "Chester",
+                "accidents": 3,
+                "percentage": 18.75
+            },
+            {
+                "name": "Winooski",
+                "accidents": 3,
+                "percentage": 18.75
+            },
+            {
+                "name": "Brandon",
+                "accidents": 2,
+                "percentage": 12.5
+            },
+            {
+                "name": "Charlotte",
+                "accidents": 2,
+                "percentage": 12.5
+            },
+            {
+                "name": "Shelburne",
+                "accidents": 1,
+                "percentage": 6.25
+            },
+            {
+                "name": "Shoreham",
+                "accidents": 1,
+                "percentage": 6.25
+            },
+            {
+                "name": "White River Junction",
+                "accidents": 1,
+                "percentage": 6.25
+            }
+        ]
+    },
+    {
+        "name": "WA",
+        "accidents": 9084,
+        "cities": [
+            {
+                "name": "Seattle",
+                "accidents": 3946,
+                "percentage": 43.44
+            },
+            {
+                "name": "Tacoma",
+                "accidents": 509,
+                "percentage": 5.6
+            },
+            {
+                "name": "Spokane",
+                "accidents": 507,
+                "percentage": 5.58
+            },
+            {
+                "name": "Bellevue",
+                "accidents": 379,
+                "percentage": 4.17
+            },
+            {
+                "name": "Renton",
+                "accidents": 358,
+                "percentage": 3.94
+            },
+            {
+                "name": "Everett",
+                "accidents": 240,
+                "percentage": 2.64
+            },
+            {
+                "name": "Kent",
+                "accidents": 193,
+                "percentage": 2.12
+            },
+            {
+                "name": "Lynnwood",
+                "accidents": 179,
+                "percentage": 1.97
+            },
+            {
+                "name": "Bothell",
+                "accidents": 175,
+                "percentage": 1.93
+            },
+            {
+                "name": "Kirkland",
+                "accidents": 157,
+                "percentage": 1.73
+            }
+        ]
+    },
+    {
+        "name": "WI",
+        "accidents": 1530,
+        "cities": [
+            {
+                "name": "Milwaukee",
+                "accidents": 633,
+                "percentage": 41.37
+            },
+            {
+                "name": "Madison",
+                "accidents": 113,
+                "percentage": 7.39
+            },
+            {
+                "name": "Brookfield",
+                "accidents": 45,
+                "percentage": 2.94
+            },
+            {
+                "name": "Appleton",
+                "accidents": 29,
+                "percentage": 1.9
+            },
+            {
+                "name": "Oak Creek",
+                "accidents": 26,
+                "percentage": 1.7
+            },
+            {
+                "name": "Janesville",
+                "accidents": 24,
+                "percentage": 1.57
+            },
+            {
+                "name": "Kenosha",
+                "accidents": 18,
+                "percentage": 1.18
+            },
+            {
+                "name": "Green Bay",
+                "accidents": 17,
+                "percentage": 1.11
+            },
+            {
+                "name": "Waukesha",
+                "accidents": 17,
+                "percentage": 1.11
+            },
+            {
+                "name": "Beloit",
+                "accidents": 16,
+                "percentage": 1.05
+            }
+        ]
+    },
+    {
+        "name": "WV",
+        "accidents": 422,
+        "cities": [
+            {
+                "name": "Charleston",
+                "accidents": 103,
+                "percentage": 24.41
+            },
+            {
+                "name": "South Charleston",
+                "accidents": 27,
+                "percentage": 6.4
+            },
+            {
+                "name": "Huntington",
+                "accidents": 21,
+                "percentage": 4.98
+            },
+            {
+                "name": "Dunbar",
+                "accidents": 18,
+                "percentage": 4.27
+            },
+            {
+                "name": "Wheeling",
+                "accidents": 13,
+                "percentage": 3.08
+            },
+            {
+                "name": "Milton",
+                "accidents": 11,
+                "percentage": 2.61
+            },
+            {
+                "name": "Scott Depot",
+                "accidents": 11,
+                "percentage": 2.61
+            },
+            {
+                "name": "Nitro",
+                "accidents": 10,
+                "percentage": 2.37
+            },
+            {
+                "name": "Bridgeport",
+                "accidents": 10,
+                "percentage": 2.37
+            },
+            {
+                "name": "Fairmont",
+                "accidents": 9,
+                "percentage": 2.13
+            }
+        ]
+    },
+    {
+        "name": "WY",
+        "accidents": 65,
+        "cities": [
+            {
+                "name": "Cheyenne",
+                "accidents": 11,
+                "percentage": 16.92
+            },
+            {
+                "name": "Laramie",
+                "accidents": 6,
+                "percentage": 9.23
+            },
+            {
+                "name": "Kaycee",
+                "accidents": 5,
+                "percentage": 7.69
+            },
+            {
+                "name": "Wamsutter",
+                "accidents": 4,
+                "percentage": 6.15
+            },
+            {
+                "name": "Jackson",
+                "accidents": 3,
+                "percentage": 4.62
+            },
+            {
+                "name": "Green River",
+                "accidents": 3,
+                "percentage": 4.62
+            },
+            {
+                "name": "Casper",
+                "accidents": 3,
+                "percentage": 4.62
+            },
+            {
+                "name": "Evanston",
+                "accidents": 3,
+                "percentage": 4.62
+            },
+            {
+                "name": "Mc Kinnon",
+                "accidents": 2,
+                "percentage": 3.08
+            },
+            {
+                "name": "Afton",
+                "accidents": 2,
+                "percentage": 3.08
+            }
+        ]
+    }
+]

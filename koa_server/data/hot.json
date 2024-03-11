@@ -1,0 +1,164 @@
+[
+  {
+    "name": "昼夜情况",
+    "children": [
+      {
+        "name": "Sunrise_Sunset",
+        "value": 7329850,
+        "children": [
+          {
+            "name": "Night",
+            "value": 2225490
+          },
+          {
+            "name": "Day",
+            "value": 5104360
+          }
+        ]
+      },
+      {
+        "name": "Civil_Twilight",
+        "value": 7329850,
+        "children": [
+          {
+            "name": "Night",
+            "value": 1880175
+          },
+          {
+            "name": "Day",
+            "value": 5449675
+          }
+        ]
+      },
+      {
+        "name": "Nautical_Twilight",
+        "value": 7329850,
+        "children": [
+          {
+            "name": "Night",
+            "value": 1516708
+          },
+          {
+            "name": "Day",
+            "value": 5813142
+          }
+        ]
+      },
+      {
+        "name": "Astronomical_Twilight",
+        "value": 7329850,
+        "children": [
+          {
+            "name": "Night",
+            "value": 1229761
+          },
+          {
+            "name": "Day",
+            "value": 6100089
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "当时风向",
+    "children": [
+      {
+        "name": "CALM",
+        "value": 923116
+      },
+      {
+        "name": "S",
+        "value": 407449
+      },
+      {
+        "name": "SSW",
+        "value": 375486
+      },
+      {
+        "name": "W",
+        "value": 372425
+      },
+      {
+        "name": "WNW",
+        "value": 368482
+      },
+      {
+        "name": "Calm",
+        "value": 361892
+      },
+      {
+        "name": "NW",
+        "value": 359304
+      },
+      {
+        "name": "SW",
+        "value": 355934
+      },
+      {
+        "name": "WSW",
+        "value": 344696
+      },
+      {
+        "name": "SSE",
+        "value": 339934
+      },
+      {
+        "name": "NNW",
+        "value": 323695
+      },
+      {
+        "name": "N",
+        "value": 296598
+      },
+      {
+        "name": "SE",
+        "value": 287483
+      },
+      {
+        "name": "E",
+        "value": 269517
+      },
+      {
+        "name": "ESE",
+        "value": 261453
+      },
+      {
+        "name": "ENE",
+        "value": 251258
+      },
+      {
+        "name": "NE",
+        "value": 251144
+      },
+      {
+        "name": "NNE",
+        "value": 248150
+      },
+      {
+        "name": "VAR",
+        "value": 243867
+      },
+      {
+        "name": "South",
+        "value": 175127
+      },
+      {
+        "name": "West",
+        "value": 161996
+      },
+      {
+        "name": "North",
+        "value": 136746
+      },
+      {
+        "name": "Variable",
+        "value": 111846
+      },
+      {
+        "name": "East",
+        "value": 102252
+      }
+    ]
+  }
+]

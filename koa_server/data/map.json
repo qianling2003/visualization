@@ -1,0 +1,2031 @@
+[
+    {
+        "name": "count",
+        "children": [
+            {
+                "name": "California",
+                "value": 1651043
+            },
+            {
+                "name": "Florida",
+                "value": 838319
+            },
+            {
+                "name": "Texas",
+                "value": 562295
+            },
+            {
+                "name": "South Carolina",
+                "value": 368624
+            },
+            {
+                "name": "New York",
+                "value": 331885
+            },
+            {
+                "name": "North Carolina",
+                "value": 326199
+            },
+            {
+                "name": "Pennsylvania",
+                "value": 280545
+            },
+            {
+                "name": "Virginia",
+                "value": 275081
+            },
+            {
+                "name": "Minnesota",
+                "value": 181928
+            },
+            {
+                "name": "Oregon",
+                "value": 170689
+            },
+            {
+                "name": "Illinois",
+                "value": 165391
+            },
+            {
+                "name": "Tennessee",
+                "value": 163900
+            },
+            {
+                "name": "Georgia",
+                "value": 161426
+            },
+            {
+                "name": "Michigan",
+                "value": 159505
+            },
+            {
+                "name": "Arizona",
+                "value": 159149
+            },
+            {
+                "name": "Louisiana",
+                "value": 144021
+            },
+            {
+                "name": "New Jersey",
+                "value": 128584
+            },
+            {
+                "name": "Ohio",
+                "value": 115379
+            },
+            {
+                "name": "Maryland",
+                "value": 108276
+            },
+            {
+                "name": "Washington",
+                "value": 105564
+            },
+            {
+                "name": "Alabama",
+                "value": 97143
+            },
+            {
+                "name": "Colorado",
+                "value": 86805
+            },
+            {
+                "name": "Utah",
+                "value": 86275
+            },
+            {
+                "name": "Oklahoma",
+                "value": 82403
+            },
+            {
+                "name": "Missouri",
+                "value": 71810
+            },
+            {
+                "name": "Connecticut",
+                "value": 68535
+            },
+            {
+                "name": "Indiana",
+                "value": 63953
+            },
+            {
+                "name": "Massachusetts",
+                "value": 58405
+            },
+            {
+                "name": "Wisconsin",
+                "value": 34083
+            },
+            {
+                "name": "Kentucky",
+                "value": 31431
+            },
+            {
+                "name": "Nebraska",
+                "value": 28333
+            },
+            {
+                "name": "Montana",
+                "value": 26113
+            },
+            {
+                "name": "Iowa",
+                "value": 24643
+            },
+            {
+                "name": "Nevada",
+                "value": 20904
+            },
+            {
+                "name": "Arkansas",
+                "value": 20587
+            },
+            {
+                "name": "Kansas",
+                "value": 17648
+            },
+            {
+                "name": "Alaska",
+                "value": 17136
+            },
+            {
+                "name": "Rhode Island",
+                "value": 16060
+            },
+            {
+                "name": "Mississippi",
+                "value": 14439
+            },
+            {
+                "name": "Delaware",
+                "value": 13585
+            },
+            {
+                "name": "West Virginia",
+                "value": 12810
+            },
+            {
+                "name": "New Mexico",
+                "value": 9990
+            },
+            {
+                "name": "New Hampshire",
+                "value": 9945
+            },
+            {
+                "name": "Idaho",
+                "value": 9651
+            },
+            {
+                "name": "Wyoming",
+                "value": 2955
+            },
+            {
+                "name": "North Dakota",
+                "value": 2680
+            },
+            {
+                "name": "Maine",
+                "value": 2635
+            },
+            {
+                "name": "Vermont",
+                "value": 884
+            },
+            {
+                "name": "South Dakota",
+                "value": 206
+            }
+        ]
+    },
+    {
+        "name": "general",
+        "children": [
+            {
+                "name": "Chicago",
+                "value": [
+                    -87.654747,
+                    41.698653
+                ]
+            },
+            {
+                "name": "Chemult",
+                "value": [
+                    -121.779093,
+                    43.206308
+                ]
+            },
+            {
+                "name": "Greensboro",
+                "value": [
+                    -79.766584,
+                    36.074388
+                ]
+            },
+            {
+                "name": "Englewood",
+                "value": [
+                    -104.876074,
+                    39.643693
+                ]
+            },
+            {
+                "name": "Ellabell",
+                "value": [
+                    -81.460316,
+                    32.181162
+                ]
+            },
+            {
+                "name": "Heathsville",
+                "value": [
+                    -76.441856,
+                    37.866622
+                ]
+            },
+            {
+                "name": "Crawfordsville",
+                "value": [
+                    -86.810457,
+                    40.04704
+                ]
+            },
+            {
+                "name": "Bailey",
+                "value": [
+                    -105.472173,
+                    39.419063
+                ]
+            },
+            {
+                "name": "Chicago",
+                "value": [
+                    -87.738949,
+                    41.958071
+                ]
+            },
+            {
+                "name": "Pueblo",
+                "value": [
+                    -104.597019,
+                    38.286773
+                ]
+            },
+            {
+                "name": "Eagle",
+                "value": [
+                    -106.816415,
+                    39.659393
+                ]
+            },
+            {
+                "name": "Fredericksburg",
+                "value": [
+                    -77.488364,
+                    38.283627
+                ]
+            },
+            {
+                "name": "Atlanta",
+                "value": [
+                    -84.44917,
+                    33.751385
+                ]
+            },
+            {
+                "name": "Warrenton",
+                "value": [
+                    -77.797229,
+                    38.714318
+                ]
+            },
+            {
+                "name": "Wiggins",
+                "value": [
+                    -104.108261,
+                    40.232427
+                ]
+            },
+            {
+                "name": "Woodstock",
+                "value": [
+                    -88.43821700000002,
+                    42.399598
+                ]
+            },
+            {
+                "name": "Grove City",
+                "value": [
+                    -80.15557700000002,
+                    41.148747
+                ]
+            },
+            {
+                "name": "Gunnison",
+                "value": [
+                    -106.764504,
+                    38.40479600000001
+                ]
+            },
+            {
+                "name": "Sunman",
+                "value": [
+                    -85.050271,
+                    39.28568
+                ]
+            },
+            {
+                "name": "Austin",
+                "value": [
+                    -97.740371,
+                    30.216054
+                ]
+            },
+            {
+                "name": "Hollidaysburg",
+                "value": [
+                    -78.398728,
+                    40.393159
+                ]
+            },
+            {
+                "name": "Sutherland",
+                "value": [
+                    -77.526556,
+                    37.195867
+                ]
+            },
+            {
+                "name": "Linthicum Heights",
+                "value": [
+                    -76.66327357,
+                    39.22723174
+                ]
+            },
+            {
+                "name": "Meansville",
+                "value": [
+                    -84.333602,
+                    33.032196
+                ]
+            },
+            {
+                "name": "Columbus",
+                "value": [
+                    -82.84307700000002,
+                    39.963037
+                ]
+            },
+            {
+                "name": "Spring Grove",
+                "value": [
+                    -76.859953,
+                    37.163667
+                ]
+            },
+            {
+                "name": "Greeley",
+                "value": [
+                    -104.633937,
+                    40.392451
+                ]
+            },
+            {
+                "name": "Crawfordsville",
+                "value": [
+                    -86.82973199999998,
+                    40.023568
+                ]
+            },
+            {
+                "name": "Atlanta",
+                "value": [
+                    -84.49523,
+                    33.770192
+                ]
+            },
+            {
+                "name": "Battleboro",
+                "value": [
+                    -77.77551899999997,
+                    36.050675
+                ]
+            },
+            {
+                "name": "Leesburg",
+                "value": [
+                    -84.10338,
+                    31.641473
+                ]
+            },
+            {
+                "name": "Griffin",
+                "value": [
+                    -84.371296,
+                    33.306175
+                ]
+            },
+            {
+                "name": "Seligman",
+                "value": [
+                    -113.105409,
+                    35.286653
+                ]
+            },
+            {
+                "name": "Mount Vernon",
+                "value": [
+                    -82.57019,
+                    40.347701
+                ]
+            },
+            {
+                "name": "Mira Loma",
+                "value": [
+                    -117.55438685,
+                    34.02226567
+                ]
+            },
+            {
+                "name": "Union Mills",
+                "value": [
+                    -81.855112,
+                    35.522007
+                ]
+            },
+            {
+                "name": "Greenville",
+                "value": [
+                    -79.154348,
+                    38.006262
+                ]
+            },
+            {
+                "name": "Savage",
+                "value": [
+                    -93.336406,
+                    44.77901
+                ]
+            },
+            {
+                "name": "Limon",
+                "value": [
+                    -103.538784,
+                    39.175373
+                ]
+            },
+            {
+                "name": "Atlanta",
+                "value": [
+                    -84.376152,
+                    33.743248
+                ]
+            },
+            {
+                "name": "Birch Run",
+                "value": [
+                    -83.769639,
+                    43.242187
+                ]
+            },
+            {
+                "name": "Camp Hill",
+                "value": [
+                    -76.93701999999998,
+                    40.222312
+                ]
+            },
+            {
+                "name": "Griffin",
+                "value": [
+                    -84.276678,
+                    33.247372
+                ]
+            },
+            {
+                "name": "Covington",
+                "value": [
+                    -84.522623,
+                    39.089178
+                ]
+            },
+            {
+                "name": "Molena",
+                "value": [
+                    -84.517496,
+                    32.992101
+                ]
+            },
+            {
+                "name": "Brentwood",
+                "value": [
+                    -121.675999,
+                    37.896522
+                ]
+            },
+            {
+                "name": "Auburn",
+                "value": [
+                    -122.22232,
+                    47.303378
+                ]
+            },
+            {
+                "name": "Delaplane",
+                "value": [
+                    -77.951397,
+                    38.978621
+                ]
+            },
+            {
+                "name": "Spring Hill",
+                "value": [
+                    -82.498547,
+                    28.433695
+                ]
+            },
+            {
+                "name": "Kalamazoo",
+                "value": [
+                    -85.663973,
+                    42.300737
+                ]
+            },
+            {
+                "name": "Hampton",
+                "value": [
+                    -82.18619,
+                    36.261355
+                ]
+            },
+            {
+                "name": "Hammonton",
+                "value": [
+                    -74.804611,
+                    39.634948
+                ]
+            },
+            {
+                "name": "Woodbury",
+                "value": [
+                    -73.169632,
+                    41.594796
+                ]
+            },
+            {
+                "name": "Mendenhall",
+                "value": [
+                    -89.886454,
+                    31.888141
+                ]
+            },
+            {
+                "name": "Jetersville",
+                "value": [
+                    -78.118105,
+                    37.275978
+                ]
+            },
+            {
+                "name": "Gallatin",
+                "value": [
+                    -86.53719306,
+                    36.35550857
+                ]
+            },
+            {
+                "name": "White",
+                "value": [
+                    -84.618013,
+                    34.222843
+                ]
+            },
+            {
+                "name": "Vinton",
+                "value": [
+                    -79.747723,
+                    37.260992
+                ]
+            },
+            {
+                "name": "Verona",
+                "value": [
+                    -79.011375,
+                    38.199713
+                ]
+            },
+            {
+                "name": "Atlanta",
+                "value": [
+                    -84.378417,
+                    33.756834999999995
+                ]
+            },
+            {
+                "name": "Tallahassee",
+                "value": [
+                    -84.317287,
+                    30.487363
+                ]
+            },
+            {
+                "name": "La Jolla",
+                "value": [
+                    -117.23472,
+                    32.837549
+                ]
+            },
+            {
+                "name": "Mineral Point",
+                "value": [
+                    -78.791394,
+                    40.395223
+                ]
+            },
+            {
+                "name": "Lake Panasoffkee",
+                "value": [
+                    -82.090502,
+                    28.748838
+                ]
+            },
+            {
+                "name": "Memphis",
+                "value": [
+                    -89.950154,
+                    35.190293
+                ]
+            },
+            {
+                "name": "Meriden",
+                "value": [
+                    -72.76714100000002,
+                    41.534464
+                ]
+            },
+            {
+                "name": "Jasper",
+                "value": [
+                    -86.94773599999998,
+                    38.343537
+                ]
+            },
+            {
+                "name": "Breckenridge",
+                "value": [
+                    -106.04383,
+                    39.429863
+                ]
+            },
+            {
+                "name": "Detroit",
+                "value": [
+                    -83.072951,
+                    42.361145
+                ]
+            },
+            {
+                "name": "Vilonia",
+                "value": [
+                    -92.170872,
+                    35.016884000000005
+                ]
+            },
+            {
+                "name": "Reno",
+                "value": [
+                    -119.84629,
+                    39.608167
+                ]
+            },
+            {
+                "name": "Frisco",
+                "value": [
+                    -106.141653,
+                    39.540433
+                ]
+            },
+            {
+                "name": "Ringgold",
+                "value": [
+                    -79.30247,
+                    36.580775
+                ]
+            },
+            {
+                "name": "Battle Creek",
+                "value": [
+                    -85.239175,
+                    42.32282
+                ]
+            },
+            {
+                "name": "Jackson",
+                "value": [
+                    -84.47665572,
+                    42.26482272
+                ]
+            },
+            {
+                "name": "Orlando",
+                "value": [
+                    -81.44976199999998,
+                    28.479232
+                ]
+            },
+            {
+                "name": "Houston",
+                "value": [
+                    -95.466255,
+                    29.726475
+                ]
+            },
+            {
+                "name": "Auburn",
+                "value": [
+                    -122.125892,
+                    47.257947
+                ]
+            },
+            {
+                "name": "Stuarts Draft",
+                "value": [
+                    -79.052598,
+                    38.044224
+                ]
+            },
+            {
+                "name": "Mena",
+                "value": [
+                    -94.197441,
+                    34.695289
+                ]
+            },
+            {
+                "name": "Glen Ellyn",
+                "value": [
+                    -88.070105,
+                    41.875475
+                ]
+            },
+            {
+                "name": "Stockton",
+                "value": [
+                    -121.24021411,
+                    37.95710921
+                ]
+            },
+            {
+                "name": "Hendersonville",
+                "value": [
+                    -82.394185,
+                    35.374742
+                ]
+            },
+            {
+                "name": "Little Hocking",
+                "value": [
+                    -81.702031,
+                    39.261876
+                ]
+            },
+            {
+                "name": "Amissville",
+                "value": [
+                    -77.90502099999998,
+                    38.698435
+                ]
+            },
+            {
+                "name": "Bath",
+                "value": [
+                    -77.34505300000002,
+                    42.41165
+                ]
+            },
+            {
+                "name": "Mount Morris",
+                "value": [
+                    -83.763552,
+                    43.116584
+                ]
+            },
+            {
+                "name": "Silver Spring",
+                "value": [
+                    -77.00814799999998,
+                    39.015903
+                ]
+            },
+            {
+                "name": "Hobbs",
+                "value": [
+                    -103.689664,
+                    32.565412
+                ]
+            },
+            {
+                "name": "Flat Rock",
+                "value": [
+                    -82.409275,
+                    35.256296
+                ]
+            },
+            {
+                "name": "Scottsville",
+                "value": [
+                    -78.467821,
+                    37.958322
+                ]
+            },
+            {
+                "name": "Memphis",
+                "value": [
+                    -89.98325899999998,
+                    35.271955
+                ]
+            },
+            {
+                "name": "Greensboro",
+                "value": [
+                    -79.695797,
+                    36.089913
+                ]
+            },
+            {
+                "name": "Auburn",
+                "value": [
+                    -76.20734300000002,
+                    40.562751
+                ]
+            },
+            {
+                "name": "Charlotte",
+                "value": [
+                    -80.88755965,
+                    35.182889700000004
+                ]
+            },
+            {
+                "name": "Campbell",
+                "value": [
+                    -77.200603,
+                    42.250112
+                ]
+            },
+            {
+                "name": "Long Beach",
+                "value": [
+                    -118.208009,
+                    33.78981471
+                ]
+            },
+            {
+                "name": "Maxton",
+                "value": [
+                    -79.31451,
+                    34.723083
+                ]
+            },
+            {
+                "name": "Chambersburg",
+                "value": [
+                    -77.649636,
+                    39.909956
+                ]
+            },
+            {
+                "name": "Grundy",
+                "value": [
+                    -82.032804,
+                    37.397814
+                ]
+            },
+            {
+                "name": "Lake Havasu City",
+                "value": [
+                    -113.565507,
+                    34.642843
+                ]
+            },
+            {
+                "name": "Richmond",
+                "value": [
+                    -77.443686,
+                    37.552663
+                ]
+            },
+            {
+                "name": "Hanover",
+                "value": [
+                    -76.89420600000003,
+                    39.782757
+                ]
+            },
+            {
+                "name": "Richmond",
+                "value": [
+                    -84.817134,
+                    39.833191
+                ]
+            },
+            {
+                "name": "Pamplin",
+                "value": [
+                    -78.64795500000002,
+                    37.267687
+                ]
+            },
+            {
+                "name": "Sterling",
+                "value": [
+                    -77.403883,
+                    39.008091
+                ]
+            },
+            {
+                "name": "Williamsport",
+                "value": [
+                    -76.792651,
+                    41.388338
+                ]
+            },
+            {
+                "name": "Evansville",
+                "value": [
+                    -106.261783,
+                    42.851631
+                ]
+            },
+            {
+                "name": "Bedford",
+                "value": [
+                    -78.52903,
+                    39.985594
+                ]
+            },
+            {
+                "name": "Kansas City",
+                "value": [
+                    -94.593763,
+                    39.179546
+                ]
+            },
+            {
+                "name": "Merchantville",
+                "value": [
+                    -75.095712,
+                    39.94
+                ]
+            },
+            {
+                "name": "Laurens",
+                "value": [
+                    -81.966995,
+                    34.470295
+                ]
+            },
+            {
+                "name": "Chicago",
+                "value": [
+                    -87.685327,
+                    41.70642
+                ]
+            },
+            {
+                "name": "Wilmington",
+                "value": [
+                    -83.849303,
+                    39.551167
+                ]
+            },
+            {
+                "name": "Capitol Heights",
+                "value": [
+                    -76.91952109,
+                    38.91676068
+                ]
+            },
+            {
+                "name": "Laurel",
+                "value": [
+                    -89.111024,
+                    31.678404
+                ]
+            },
+            {
+                "name": "Broadway",
+                "value": [
+                    -78.748302,
+                    38.566922
+                ]
+            },
+            {
+                "name": "Teaneck",
+                "value": [
+                    -74.019657,
+                    40.89601
+                ]
+            },
+            {
+                "name": "Lansing",
+                "value": [
+                    -84.50545192,
+                    42.72309422
+                ]
+            },
+            {
+                "name": "Ayden",
+                "value": [
+                    -77.372396,
+                    35.47055800000001
+                ]
+            },
+            {
+                "name": "Aberdeen",
+                "value": [
+                    -76.21435100000002,
+                    39.506141
+                ]
+            },
+            {
+                "name": "Darien",
+                "value": [
+                    -81.393467,
+                    31.438053000000004
+                ]
+            },
+            {
+                "name": "Myrtle Beach",
+                "value": [
+                    -78.967721,
+                    33.758062
+                ]
+            },
+            {
+                "name": "Cicero",
+                "value": [
+                    -87.743802,
+                    41.83666
+                ]
+            },
+            {
+                "name": "Alamosa",
+                "value": [
+                    -105.819892,
+                    37.473526
+                ]
+            },
+            {
+                "name": "Suffolk",
+                "value": [
+                    -76.582856,
+                    36.866896
+                ]
+            },
+            {
+                "name": "Roxboro",
+                "value": [
+                    -78.985974,
+                    36.338233
+                ]
+            },
+            {
+                "name": "Mequon",
+                "value": [
+                    -87.92095,
+                    43.215725
+                ]
+            },
+            {
+                "name": "Richlands",
+                "value": [
+                    -81.826171,
+                    37.109362
+                ]
+            },
+            {
+                "name": "Atlanta",
+                "value": [
+                    -84.355239,
+                    33.823128000000004
+                ]
+            },
+            {
+                "name": "Atlanta",
+                "value": [
+                    -84.349488,
+                    33.719425
+                ]
+            },
+            {
+                "name": "Los Angeles",
+                "value": [
+                    -118.176027,
+                    34.113531
+                ]
+            },
+            {
+                "name": "Seligman",
+                "value": [
+                    -113.241239,
+                    35.532859
+                ]
+            },
+            {
+                "name": "Mc Veytown",
+                "value": [
+                    -77.818881,
+                    40.455255
+                ]
+            },
+            {
+                "name": "Lexington",
+                "value": [
+                    -79.49205400000002,
+                    37.820418
+                ]
+            },
+            {
+                "name": "Flovilla",
+                "value": [
+                    -83.89965699999998,
+                    33.25609
+                ]
+            },
+            {
+                "name": "Grove City",
+                "value": [
+                    -83.103011,
+                    39.909788
+                ]
+            },
+            {
+                "name": "Cleveland",
+                "value": [
+                    -81.785022,
+                    41.467748
+                ]
+            },
+            {
+                "name": "South Boston",
+                "value": [
+                    -78.911039,
+                    36.682594
+                ]
+            },
+            {
+                "name": "Albany",
+                "value": [
+                    -73.849827,
+                    42.732499
+                ]
+            }
+        ]
+    },
+    {
+        "name": "lighter",
+        "children": [
+            {
+                "name": "Shelby",
+                "value": [
+                    -81.60784699999998,
+                    35.248425
+                ]
+            },
+            {
+                "name": "Gunnison",
+                "value": [
+                    -106.764592,
+                    38.412453
+                ]
+            },
+            {
+                "name": "Newport News",
+                "value": [
+                    -76.591792,
+                    37.209276
+                ]
+            },
+            {
+                "name": "Adairsville",
+                "value": [
+                    -84.868465,
+                    34.33847
+                ]
+            },
+            {
+                "name": "Barrington",
+                "value": [
+                    -88.135614,
+                    42.18312
+                ]
+            },
+            {
+                "name": "Heber",
+                "value": [
+                    -110.627558,
+                    34.438078999999995
+                ]
+            },
+            {
+                "name": "Lancaster",
+                "value": [
+                    -76.227266,
+                    40.029027
+                ]
+            },
+            {
+                "name": "Kansas City",
+                "value": [
+                    -94.583537,
+                    39.106765
+                ]
+            },
+            {
+                "name": "Elm City",
+                "value": [
+                    -77.85240999999998,
+                    35.818154
+                ]
+            },
+            {
+                "name": "Littleton",
+                "value": [
+                    -105.087605,
+                    39.580632
+                ]
+            },
+            {
+                "name": "Fort Lauderdale",
+                "value": [
+                    -80.209028,
+                    26.04665
+                ]
+            },
+            {
+                "name": "Fredericksburg",
+                "value": [
+                    -77.57209,
+                    38.24892
+                ]
+            },
+            {
+                "name": "Crimora",
+                "value": [
+                    -78.846971,
+                    38.175145
+                ]
+            },
+            {
+                "name": "Blowing Rock",
+                "value": [
+                    -81.645838,
+                    36.179653
+                ]
+            },
+            {
+                "name": "Effort",
+                "value": [
+                    -75.43449100000002,
+                    40.938025
+                ]
+            },
+            {
+                "name": "Dowagiac",
+                "value": [
+                    -86.088486,
+                    41.982308
+                ]
+            },
+            {
+                "name": "Worcester",
+                "value": [
+                    -71.79469399999998,
+                    42.271943
+                ]
+            },
+            {
+                "name": "Sheridan",
+                "value": [
+                    -92.374051,
+                    34.399212
+                ]
+            },
+            {
+                "name": "Wildwood",
+                "value": [
+                    -82.08085799999998,
+                    28.868091
+                ]
+            },
+            {
+                "name": "Madras",
+                "value": [
+                    -121.163708,
+                    44.703197
+                ]
+            },
+            {
+                "name": "Climax",
+                "value": [
+                    -84.438999,
+                    30.982263
+                ]
+            },
+            {
+                "name": "Brea",
+                "value": [
+                    -117.87771,
+                    33.937438
+                ]
+            },
+            {
+                "name": "Whitsett",
+                "value": [
+                    -79.564594,
+                    36.06482800000001
+                ]
+            },
+            {
+                "name": "Luray",
+                "value": [
+                    -78.417337,
+                    38.77832
+                ]
+            },
+            {
+                "name": "Brentwood",
+                "value": [
+                    -121.668366,
+                    37.808824
+                ]
+            },
+            {
+                "name": "Kernersville",
+                "value": [
+                    -80.064461,
+                    36.11319
+                ]
+            }
+        ]
+    },
+    {
+        "name": "severity",
+        "children": [
+            {
+                "name": "Olney Springs",
+                "value": [
+                    -103.950289,
+                    38.164505
+                ]
+            },
+            {
+                "name": "Asheville",
+                "value": [
+                    -82.532116,
+                    35.54085
+                ]
+            },
+            {
+                "name": "Odessa",
+                "value": [
+                    -102.327876,
+                    31.89456400000001
+                ]
+            },
+            {
+                "name": "Windsor",
+                "value": [
+                    -76.716673,
+                    36.801803
+                ]
+            },
+            {
+                "name": "Morley",
+                "value": [
+                    -85.483818,
+                    43.48974000000001
+                ]
+            },
+            {
+                "name": "Alberta",
+                "value": [
+                    -77.937483,
+                    36.889676
+                ]
+            },
+            {
+                "name": "Syracuse",
+                "value": [
+                    -76.176204,
+                    43.077747
+                ]
+            },
+            {
+                "name": "Mercer",
+                "value": [
+                    -80.15973687,
+                    41.19844079
+                ]
+            },
+            {
+                "name": "Hebron",
+                "value": [
+                    -87.176213,
+                    41.317925
+                ]
+            },
+            {
+                "name": "Calhoun",
+                "value": [
+                    -84.93581999999998,
+                    34.554914000000004
+                ]
+            },
+            {
+                "name": "Willow Spring",
+                "value": [
+                    -78.595731,
+                    35.557148
+                ]
+            },
+            {
+                "name": "Taylorsville",
+                "value": [
+                    -81.26192900000002,
+                    35.92325
+                ]
+            },
+            {
+                "name": "Hamburg",
+                "value": [
+                    -76.001767,
+                    40.555619
+                ]
+            },
+            {
+                "name": "Crawford",
+                "value": [
+                    -83.15708000000002,
+                    33.882047
+                ]
+            },
+            {
+                "name": "Parksley",
+                "value": [
+                    -75.62106800000002,
+                    37.757063
+                ]
+            },
+            {
+                "name": "East Pittsburgh",
+                "value": [
+                    -79.842363,
+                    40.408591
+                ]
+            },
+            {
+                "name": "Sheridan",
+                "value": [
+                    -92.374699,
+                    34.395579999999995
+                ]
+            },
+            {
+                "name": "Brevard",
+                "value": [
+                    -82.771813,
+                    35.201881
+                ]
+            },
+            {
+                "name": "Elkton",
+                "value": [
+                    -75.810851,
+                    39.642381
+                ]
+            },
+            {
+                "name": "Albany",
+                "value": [
+                    -123.152201,
+                    44.639955
+                ]
+            },
+            {
+                "name": "Unionville",
+                "value": [
+                    -77.956845,
+                    38.266057
+                ]
+            },
+            {
+                "name": "Syracuse",
+                "value": [
+                    -76.14222,
+                    43.051459
+                ]
+            },
+            {
+                "name": "Carrollton",
+                "value": [
+                    -76.564927,
+                    36.967117
+                ]
+            },
+            {
+                "name": "Seattle",
+                "value": [
+                    -122.290893,
+                    47.461141
+                ]
+            },
+            {
+                "name": "Coeburn",
+                "value": [
+                    -82.468951,
+                    36.966094
+                ]
+            },
+            {
+                "name": "Old Westbury",
+                "value": [
+                    -73.567704,
+                    40.780169
+                ]
+            },
+            {
+                "name": "McDonough",
+                "value": [
+                    -84.21008,
+                    33.462795
+                ]
+            },
+            {
+                "name": "Fort Smith",
+                "value": [
+                    -94.203643,
+                    35.246778000000006
+                ]
+            },
+            {
+                "name": "Williamson",
+                "value": [
+                    -84.418336,
+                    33.166477
+                ]
+            },
+            {
+                "name": "Destin",
+                "value": [
+                    -86.43029200000002,
+                    30.388299
+                ]
+            },
+            {
+                "name": "Bridgewater",
+                "value": [
+                    -78.982349,
+                    38.379249
+                ]
+            },
+            {
+                "name": "Carlisle",
+                "value": [
+                    -77.16334462,
+                    40.27181268
+                ]
+            },
+            {
+                "name": "Chehalis",
+                "value": [
+                    -122.813799,
+                    46.574503
+                ]
+            },
+            {
+                "name": "Prescott Valley",
+                "value": [
+                    -112.306706,
+                    34.642144
+                ]
+            },
+            {
+                "name": "Marion",
+                "value": [
+                    -82.02471800000002,
+                    35.697178
+                ]
+            },
+            {
+                "name": "Rochester",
+                "value": [
+                    -80.265415,
+                    40.695331
+                ]
+            },
+            {
+                "name": "Waynesville",
+                "value": [
+                    -83.00056,
+                    35.65152
+                ]
+            },
+            {
+                "name": "Punta Gorda",
+                "value": [
+                    -82.008698,
+                    26.894813
+                ]
+            },
+            {
+                "name": "Williamsport",
+                "value": [
+                    -77.06429601,
+                    41.28749013
+                ]
+            },
+            {
+                "name": "Midland",
+                "value": [
+                    -77.693309,
+                    38.621466
+                ]
+            },
+            {
+                "name": "Durham",
+                "value": [
+                    -78.820987,
+                    36.076187
+                ]
+            },
+            {
+                "name": "Aurora",
+                "value": [
+                    -104.728767,
+                    39.740527
+                ]
+            },
+            {
+                "name": "Centralia",
+                "value": [
+                    -122.953823,
+                    46.739692
+                ]
+            },
+            {
+                "name": "Stafford Springs",
+                "value": [
+                    -72.27470799999998,
+                    41.953593
+                ]
+            },
+            {
+                "name": "Rockford",
+                "value": [
+                    -85.582123,
+                    43.153037
+                ]
+            },
+            {
+                "name": "Durham",
+                "value": [
+                    -78.844853,
+                    36.025586
+                ]
+            },
+            {
+                "name": "Menlo",
+                "value": [
+                    -85.46189,
+                    34.504767
+                ]
+            },
+            {
+                "name": "Imlay City",
+                "value": [
+                    -83.10535,
+                    42.997246
+                ]
+            },
+            {
+                "name": "Antioch",
+                "value": [
+                    -88.109053,
+                    42.480403
+                ]
+            },
+            {
+                "name": "Erie",
+                "value": [
+                    -80.06641746,
+                    42.08906293
+                ]
+            },
+            {
+                "name": "Taylorsville",
+                "value": [
+                    -81.206238,
+                    35.919178
+                ]
+            },
+            {
+                "name": "Cincinnati",
+                "value": [
+                    -84.527654,
+                    39.104156
+                ]
+            },
+            {
+                "name": "Norwalk",
+                "value": [
+                    -73.435936,
+                    41.102501
+                ]
+            },
+            {
+                "name": "Chester",
+                "value": [
+                    -75.403275,
+                    39.841525
+                ]
+            },
+            {
+                "name": "Coolidge",
+                "value": [
+                    -111.596905,
+                    33.00254
+                ]
+            },
+            {
+                "name": "Stanardsville",
+                "value": [
+                    -78.427305,
+                    38.294117
+                ]
+            },
+            {
+                "name": "Government Camp",
+                "value": [
+                    -121.70638,
+                    45.31917
+                ]
+            },
+            {
+                "name": "Knightstown",
+                "value": [
+                    -85.517578,
+                    39.84481
+                ]
+            },
+            {
+                "name": "Castle Rock",
+                "value": [
+                    -104.871992,
+                    39.410662
+                ]
+            },
+            {
+                "name": "Shenandoah",
+                "value": [
+                    -78.624053,
+                    38.488792
+                ]
+            },
+            {
+                "name": "Winchester",
+                "value": [
+                    -78.27664399999998,
+                    39.221902
+                ]
+            },
+            {
+                "name": "Lithonia",
+                "value": [
+                    -84.19094100000002,
+                    33.702568
+                ]
+            },
+            {
+                "name": "Golden",
+                "value": [
+                    -105.46581100000002,
+                    39.786465
+                ]
+            },
+            {
+                "name": "Petoskey",
+                "value": [
+                    -84.924965,
+                    45.38606400000001
+                ]
+            },
+            {
+                "name": "Shelby",
+                "value": [
+                    -81.63159399999998,
+                    35.291477
+                ]
+            },
+            {
+                "name": "Pineville",
+                "value": [
+                    -80.87333322,
+                    35.08233905
+                ]
+            },
+            {
+                "name": "Swannanoa",
+                "value": [
+                    -82.409988,
+                    35.598872
+                ]
+            },
+            {
+                "name": "Church Road",
+                "value": [
+                    -77.63991999999998,
+                    37.185283
+                ]
+            },
+            {
+                "name": "Louisa",
+                "value": [
+                    -78.148572,
+                    37.94533
+                ]
+            },
+            {
+                "name": "Tully",
+                "value": [
+                    -76.025446,
+                    42.764627
+                ]
+            },
+            {
+                "name": "Fort Denaud",
+                "value": [
+                    -81.558724,
+                    26.709505
+                ]
+            },
+            {
+                "name": "Marion",
+                "value": [
+                    -82.03083199999998,
+                    35.703631
+                ]
+            },
+            {
+                "name": "Chase City",
+                "value": [
+                    -78.458745,
+                    36.78228
+                ]
+            },
+            {
+                "name": "Flint",
+                "value": [
+                    -83.72859836,
+                    42.98466325
+                ]
+            },
+            {
+                "name": "Pass Christian",
+                "value": [
+                    -89.199737,
+                    30.416402
+                ]
+            },
+            {
+                "name": "Flint",
+                "value": [
+                    -83.742241,
+                    43.00222
+                ]
+            },
+            {
+                "name": "Charlotte",
+                "value": [
+                    -80.72149399999998,
+                    35.333105
+                ]
+            },
+            {
+                "name": "Newcastle",
+                "value": [
+                    -121.12646699,
+                    38.87820125
+                ]
+            },
+            {
+                "name": "Sacramento",
+                "value": [
+                    -121.595993,
+                    38.671066
+                ]
+            },
+            {
+                "name": "Broomfield",
+                "value": [
+                    -105.071034,
+                    39.887667
+                ]
+            },
+            {
+                "name": "Greenville",
+                "value": [
+                    -77.44603000000002,
+                    35.596578
+                ]
+            },
+            {
+                "name": "Black Mountain",
+                "value": [
+                    -82.291325,
+                    35.619075
+                ]
+            },
+            {
+                "name": "Garner",
+                "value": [
+                    -78.63575300000002,
+                    35.693084000000006
+                ]
+            },
+            {
+                "name": "Raphine",
+                "value": [
+                    -79.204858,
+                    37.923578000000006
+                ]
+            },
+            {
+                "name": "Hendersonville",
+                "value": [
+                    -82.583721,
+                    35.240817
+                ]
+            },
+            {
+                "name": "Ashland",
+                "value": [
+                    -122.607438,
+                    42.073499
+                ]
+            },
+            {
+                "name": "Jacksonville",
+                "value": [
+                    -77.48603100000003,
+                    34.715767
+                ]
+            },
+            {
+                "name": "New Port Richey",
+                "value": [
+                    -82.693137,
+                    28.23343
+                ]
+            },
+            {
+                "name": "Suffolk",
+                "value": [
+                    -76.488845,
+                    36.762934
+                ]
+            },
+            {
+                "name": "Copperhill",
+                "value": [
+                    -84.481533,
+                    35.075903000000004
+                ]
+            },
+            {
+                "name": "Orlando",
+                "value": [
+                    -81.42540699999998,
+                    28.501977
+                ]
+            },
+            {
+                "name": "Metter",
+                "value": [
+                    -82.066469,
+                    32.374462
+                ]
+            },
+            {
+                "name": "Wilmington",
+                "value": [
+                    -75.480932,
+                    39.774586
+                ]
+            }
+        ]
+    }
+]
